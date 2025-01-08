@@ -36,7 +36,7 @@ Here's a non-exhaustive list of the components.
 - [x] References 
 - [ ] Mini-games
 - [ ] Medication following 
-- [ ] Sobriety timer
+- [x] Sobriety timer
 - [x] Quizzes
 - [ ] Reminders
 - [x] IA generated recipes with filters
